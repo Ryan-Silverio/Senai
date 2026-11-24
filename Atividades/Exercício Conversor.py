@@ -78,4 +78,3 @@ while True:
     continuar = input("Deseja fazer outra conversão? (s/n): ")
     if continuar.lower() != "s":
         break
-
